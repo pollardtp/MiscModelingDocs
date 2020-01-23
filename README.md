@@ -15,6 +15,8 @@ Create databases in Psi4: http://www.psicode.org/psi4manual/master/quickadddatab
 
 # Websites
 
-ASE: https://ase-workshop.materialsmodeling.org/abstracts/
+General DFT with VASP: https://kitchingroup.cheme.cmu.edu/dft-book/dft.html
+
+Interesting ASE tools: https://ase-workshop.materialsmodeling.org/abstracts/
 
 Improve reviewing skills: https://www.acsreviewerlab.org/
